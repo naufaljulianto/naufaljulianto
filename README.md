@@ -1,4 +1,4 @@
-![naufaljulianto](./img/github-header-image.png)
+![naufaljulianto](./img/Hello_World!.png)
 
 <!--
 **naufaljulianto/naufaljulianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
