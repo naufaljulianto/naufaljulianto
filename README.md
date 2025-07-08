@@ -1,6 +1,4 @@
-## Hello World! I'm Muhammad Naufal Julianto 👋
-
-![naufaljulianto](<./img/github-header-image%20(3).png>)
+## Hi there 👋
 
 <!--
 **naufaljulianto/naufaljulianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
