@@ -1,6 +1,6 @@
 ![naufaljulianto](./img/Hello_World!.png)
 
-## I'm Muhammad Naufal Julianto, Nice to meet you👋😊
+## I'm Muhammad Naufal Julianto, nice to meet you👋😊
 
 <!--
 **naufaljulianto/naufaljulianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
